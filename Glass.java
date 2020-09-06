@@ -1,4 +1,4 @@
-package Glass;
+package glass;
 
 public class Glass 
 {
