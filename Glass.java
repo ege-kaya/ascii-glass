@@ -1,6 +1,6 @@
-package ECK2018400018;
+package Glass;
 
-public class ECK2018400018 
+public class Glass 
 {
 	public static void main(String[] args) 
 	{
